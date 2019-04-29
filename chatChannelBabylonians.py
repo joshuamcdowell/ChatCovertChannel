@@ -2,6 +2,7 @@
 # Team: Babylonians
 # Group Members: Martin Brock, John Chung, Casey Fernandez,William Francis,Joshua McDowell, Reid Naylor,    	Zachary Rogers
 # Date: 4/27/2019
+# Github: https://github.com/joshuamcdowell/ChatCovertChannel.git
 
 import socket, sys
 from binascii import hexlify
